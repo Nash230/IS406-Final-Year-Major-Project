@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="4">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="Usecase Diagram" id="iVfS9-gY9mPiv4O20bvR">
     <mxGraphModel dx="2538" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmBCZtw4ysn_083t0J6O" name="Data Flow Diagram Level 1">
-    <mxGraphModel dx="1710" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -941,6 +941,218 @@
         </mxCell>
         <mxCell id="sP8YaAPo0On5TaNufMTM-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PNG AI-Assited Home School Hub&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="50" y="-90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sC0vrHZJWV850BIAsPEr" name="Network Diagram">
+    <mxGraphModel dx="774" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d7RSbqW4ZiCMCJkQGHdC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="535" width="600" x="10" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Desktop Docker&lt;/div&gt;&lt;div&gt;&amp;gt; Web application&lt;/div&gt;&lt;div&gt;&amp;gt; MySQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="141.72" x="354" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-4" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home.svg;" value="" vertex="1">
+          <mxGeometry height="103.35" width="106.55" x="270.08" y="106.83000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-5" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
+          <mxGeometry height="224.01" width="355.57" x="161.35" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="60" width="120.1" x="268.22" y="270.05" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Commit to GitHub&lt;/div&gt;&lt;div&gt;&amp;gt; version control&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="363.27" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-11" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
+          <mxGeometry height="70" width="111.11" x="410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-10" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=1;dashed=0;spacingTop=3;image=img/lib/active_directory/my_sites.svg;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="471.11" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internet" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Oracle cloud free Tier" vertex="1">
+          <mxGeometry height="30" width="115" x="410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AI-Assisted Homeschool Hub" vertex="1">
+          <mxGeometry height="30" width="120" x="466.11" y="562.01" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-16" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/site_collection.svg;" value="" vertex="1">
+          <mxGeometry height="47" width="50" x="288.28" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GitHub" vertex="1">
+          <mxGeometry height="30" width="60" x="283.28" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Local PC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="293.35999999999996" y="143.51" as="geometry" />
+        </mxCell>
+        <mxCell id="OENMYH5AmS3SsA6d0K-r-19" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.56;dx=24.67;notch=0;rotation=30;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="350" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="d7RSbqW4ZiCMCJkQGHdC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Physical Network Topology&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="20" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ldMJdbDq3rjc_AKhzpI8" name="ERD">
+    <mxGraphModel dx="2201" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82b7__avuRBJTb8PZ9To-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="USER" vertex="1">
+          <mxGeometry height="160" width="180" x="280" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-2" parent="82b7__avuRBJTb8PZ9To-1" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;u&gt;+ userID (PK)&lt;/u&gt;&lt;/div&gt;&lt;div&gt;+ firstName&lt;/div&gt;&lt;div&gt;+ secondName&lt;/div&gt;&lt;div&gt;+ emailAddress&lt;/div&gt;&lt;div&gt;+ password&lt;/div&gt;&lt;div&gt;+ role(parent/secondaryStudent)&lt;/div&gt;+ createdAt" vertex="1">
+          <mxGeometry height="120" width="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-3" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="LEARNER (PREP-GR8)" vertex="1">
+          <mxGeometry height="130" width="174" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-4" parent="82b7__avuRBJTb8PZ9To-3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;+ learnerID (PK)&lt;/u&gt;&lt;br&gt;&lt;u&gt;+ userID (FK)&lt;/u&gt;&lt;br&gt;+ firstName&lt;br&gt;+ secondName&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ gradeBand&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="174" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-26" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="CURRICULUM_TOPIC" vertex="1">
+          <mxGeometry height="170" width="190" x="460" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-27" parent="82b7__avuRBJTb8PZ9To-26" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;u&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (PK)&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;&lt;div&gt;&lt;u&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ subject_id (FK)&lt;/span&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_name&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ content_standard&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ grade_level&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="190" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-30" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="SEARCH_KEYWORD" vertex="1">
+          <mxGeometry height="160" width="240" x="840" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-31" parent="82b7__avuRBJTb8PZ9To-30" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ keyword_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (FK)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ keyword&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ target_platform (youtube / khan_academy /&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;phet / oer)&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-33" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="LEARNING_RESOURCE(retrieve via API or manually curate" vertex="1">
+          <mxGeometry height="290" width="220" x="250" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-34" parent="82b7__avuRBJTb8PZ9To-33" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ resource_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (FK)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ title&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ resource_type (video/simulation / exercise /&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;link)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ source_platform&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ external_url&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ is_curated (boolean — true for PhET/OER&lt;br&gt;manually linked resources)&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="220" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-35" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="LEARNER_ACTIVITY" vertex="1">
+          <mxGeometry height="240" width="194" x="80" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-36" parent="82b7__avuRBJTb8PZ9To-35" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ activity_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ learner_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ assigned_by (user_id FK — null if&lt;br&gt;self-assigned)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ scheduled_date&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ status (pending / completed)&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="194" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-37" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="PROGRESS" vertex="1">
+          <mxGeometry height="210" width="200" x="-370" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-38" parent="82b7__avuRBJTb8PZ9To-37" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ progress_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ learner_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ quiz_score&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ completion_date&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-39" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="AI-RECOMMENDATION" vertex="1">
+          <mxGeometry height="230" width="240" x="-490" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-40" parent="82b7__avuRBJTb8PZ9To-39" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ recommendation_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ learner_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ topic_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ recommended_resource_id (FK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ recommendation_reason&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ created_at&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-41" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="SUBJECT" vertex="1">
+          <mxGeometry height="180" width="160" x="600" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-42" parent="82b7__avuRBJTb8PZ9To-41" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ subject_id (PK)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ subject_name&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ grade_level&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0in;margin-bottom:.0001pt;text-align:&amp;lt;br/&amp;gt;justify;text-justify:inter-ideograph&quot;&gt;&lt;span lang=&quot;EN-AU&quot; style=&quot;mso-ansi-language:&amp;lt;br/&amp;gt;EN-AU;mso-bidi-font-weight:bold&quot;&gt;+ strands&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="430" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="186" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-72" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-1" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1.015;entryY=0.173;entryDx=0;entryDy=0;exitX=0.023;exitY=0.152;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="82b7__avuRBJTb8PZ9To-3" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="-216" />
+              <mxPoint x="240" y="2" />
+            </Array>
+            <mxPoint x="175.36000000000013" y="-190" as="sourcePoint" />
+            <mxPoint x="-40" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-74" edge="1" parent="1" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" target="82b7__avuRBJTb8PZ9To-35" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" />
+              <mxPoint x="-80" y="211" />
+            </Array>
+            <mxPoint x="-3" y="0.01999999999998181" as="sourcePoint" />
+            <mxPoint x="-240" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-76" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-26" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="82b7__avuRBJTb8PZ9To-30" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="730" y="280" as="sourcePoint" />
+            <mxPoint x="830" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-77" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.977;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" target="82b7__avuRBJTb8PZ9To-33" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="202" />
+              <mxPoint x="680" y="202" />
+              <mxPoint x="680" y="471" />
+            </Array>
+            <mxPoint x="650" y="212" as="sourcePoint" />
+            <mxPoint x="465" y="559.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-78" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="82b7__avuRBJTb8PZ9To-26" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-50" />
+              <mxPoint x="420" y="-50" />
+              <mxPoint x="420" y="203" />
+            </Array>
+            <mxPoint x="599.89" y="-15.11" as="sourcePoint" />
+            <mxPoint x="459.89" y="222.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-79" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-3" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0.979;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="82b7__avuRBJTb8PZ9To-39" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="10" />
+              <mxPoint x="-150" y="110" />
+            </Array>
+            <mxPoint x="-100" y="140" as="sourcePoint" />
+            <mxPoint y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-80" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-3" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.982;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" target="82b7__avuRBJTb8PZ9To-37" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="10" />
+              <mxPoint x="-130" y="-261" />
+            </Array>
+            <mxPoint x="210" y="10" as="sourcePoint" />
+            <mxPoint x="310" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-81" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-2" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1.004;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="82b7__avuRBJTb8PZ9To-37" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="-200" />
+              <mxPoint x="60" y="-250" />
+            </Array>
+            <mxPoint x="40" y="-210" as="sourcePoint" />
+            <mxPoint x="140" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82b7__avuRBJTb8PZ9To-85" edge="1" parent="1" source="82b7__avuRBJTb8PZ9To-35" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.976;exitY=0.144;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.134;entryDx=0;entryDy=0;entryPerimeter=0;" target="82b7__avuRBJTb8PZ9To-26" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="205" />
+              <mxPoint x="340" y="180" />
+            </Array>
+            <mxPoint x="280" y="200" as="sourcePoint" />
+            <mxPoint x="310" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
