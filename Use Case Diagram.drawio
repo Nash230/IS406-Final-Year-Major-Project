@@ -1362,7 +1362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NPWc6nx_T6o_JrNnhhO3" name="Logical Diagram">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1417,8 +1417,8 @@
         <mxCell id="QcAN5ulTxnMUkTBnO8y6-16" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="410" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="QcAN5ulTxnMUkTBnO8y6-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;External APIs&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="440" y="540" as="geometry" />
+        <mxCell id="QcAN5ulTxnMUkTBnO8y6-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;span&gt;&lt;span&gt;External APIs&lt;/span&gt;&lt;/span&gt;&amp;nbsp;and curated links&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="450" y="535" as="geometry" />
         </mxCell>
         <mxCell id="4T3LrGLX2SCU6lXMLQ1R-8" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
