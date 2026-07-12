@@ -373,10 +373,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="97B08GjTttxM55T1foFl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;In flow&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- parent registration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- learner profile data&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;activity assignment&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="150" x="4" y="80" as="geometry" />
+          <mxGeometry height="90" width="150" x="84" y="10" as="geometry" />
         </mxCell>
         <mxCell id="97B08GjTttxM55T1foFl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Out flow:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- progress reports&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- recommended resources&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- system notifications&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="204" y="20" as="geometry" />
+          <mxGeometry height="70" width="150" x="207" y="12" as="geometry" />
         </mxCell>
         <mxCell id="97B08GjTttxM55T1foFl-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;In flow:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- user management&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-curriculum updates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- AI rule configuation&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="544" y="15" as="geometry" />
@@ -394,7 +394,7 @@
           <mxGeometry height="91" width="174" x="619" y="280" as="geometry" />
         </mxCell>
         <mxCell id="97B08GjTttxM55T1foFl-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;In flow:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- student registration (sec)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- quiz responses&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- activity completion&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="74" y="340" as="geometry" />
+          <mxGeometry height="70" width="170" x="74" y="350" as="geometry" />
         </mxCell>
         <mxCell id="97B08GjTttxM55T1foFl-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Out flow:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- AI recommendations&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- learning resources&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(videos, exercises, sims)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- progress charts/dashboard&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="150" x="264" y="340" as="geometry" />
